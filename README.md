@@ -1,5 +1,5 @@
 # Atelier 
-### Fashion Retail Inventory Management | Java
+### Fashion Retail Inventory Management (Java)
 
 ## Overview
 
@@ -40,3 +40,35 @@ AtelierRetail_Inventory/
 
 ## How to Run
 
+1. Download or clone the repository.
+2. Open the Java source files in IntelliJ IDEA or another compatible Java environment.
+3. Run `Main.java`.
+4. Follow the console menu to manage inventory.
+
+The application uses `inventory.txt` to store inventory information.
+
+## What I Learned
+
+Building Atelier helped me practice translating programming concepts into a functional application.
+
+I gained experience working with multiple Java classes, managing product data, implementing menu-based interactions, and saving information between program sessions.
+
+It also introduced me to the relationship between technical systems and everyday retail operations.
+
+## Future Improvements
+
+Potential improvements include:
+
+- Improved input validation and error handling
+- Inventory search and filtering
+- Sales reporting and inventory analytics
+- A graphical user interface
+- Database-backed inventory storage
+
+These are possible future enhancements rather than features of the current application.
+
+## Author
+
+**Varana Anand**
+
+Computer Science undergraduate interested in artificial intelligence, data analytics, product management, and business strategy, particularly within fashion, luxury, and retail.
